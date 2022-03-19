@@ -10,7 +10,7 @@
 <h2 style="text-align: center;">Technologies used</h2>
 <br>
 <ul>
-<li><b>HTML</b> - Used to apply a bacis structure to the website
+<li><b>HTML</b> - Used to apply a basic structure to the website
 <li><b>CSS3</b> - Used to style key HTML elements within the website</li>
 <li><b>Gitpod</b> - Used as my workspace for writing the website code</li>
 <li><b>Github</b> - Used to host my Git repository</li>
