@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">My First Website!</h1>
 
-<p style="text-align: center;">Link to the live website: <a href="https://nickdevc.github.io/my-full-template/index.htm">Live website </a></p>
+<p style="text-align: center;">Link to the live website: <a href="https://nickdevc.github.io/my-full-template/">Live website </a></p>
 
 <h2 style="text-align: center; color: blue">Project description</h2>
 <br>
